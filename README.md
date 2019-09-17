@@ -1,4 +1,5 @@
 # pattern-collection
 A homepage with collection of random pattern.
 
-![](images/pattern.png)
+
+<img src="images/pattern.png" width="500">
